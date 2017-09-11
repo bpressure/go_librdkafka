@@ -1,1 +1,1 @@
-# go_librdkafka
+Go Docker container with librdkafka + github.com/confluentinc/confluent-kafka-go/kafka installed
